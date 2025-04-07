@@ -2,6 +2,8 @@
 
 This is a news mobile application built using **React Native** and **TypeScript** that allows users to access the latest news in various categories such as Latest News, Business, Sports, Life, and Movies. The application aggregates content from various reputable news outlets to provide a comprehensive feed of current events.
 
+![image alt](https://github.com/fredie7/purple-news-mobile-app/blob/0479e02cad3dc82ce8baaf3cfbd01cb2ab15fa17/MergedImages%20(1).png)
+
 ## Features
 
 - **Category-based News Feed**: Toggle between different categories:
